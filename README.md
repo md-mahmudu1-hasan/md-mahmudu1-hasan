@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1" 
-       alt="Touhidur Zaman - Full Stack Developer Banner" 
-       width="100%" 
-       height="250"/>
-</p>
-
+<img src="https://i.ibb.co.com/B2sTwWhf/Gemini-Generated-Image-m5so6mm5so6mm5s.jpg" alt="Banner"/>
 
 <h1 align="center">Hi 👋, I'm MD Mahmudul Hasan</h1>
 <h3 align="center">MERN Stack Developer | React.js | Tailwind CSS | Firebase | Node.js | MongoDB</h3>
