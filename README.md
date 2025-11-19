@@ -1,4 +1,7 @@
-<img src="https://i.ibb.co.com/B2sTwWhf/Gemini-Generated-Image-m5so6mm5so6mm5s.jpg" alt="Banner"/>
+<div align="center">
+  <img width="900" height="600" src="https://i.ibb.co.com/B2sTwWhf/Gemini-Generated-Image-m5so6mm5so6mm5s.jpg" alt="Banner"/>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm MD Mahmudul Hasan</h1>
 <h3 align="center">MERN Stack Developer | React.js | Tailwind CSS | Firebase | Node.js | MongoDB</h3>
