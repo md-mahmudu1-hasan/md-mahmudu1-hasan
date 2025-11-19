@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co.com/ksM0TJxt/Gemini-Generated-Image-m5so6mm5so6mm5so.png" alt="My Banner" width="900" height="900"/>
+</p>
 About Me 👋
 
 Hi! I’m MD Mahmudul Hasan, a passionate MERN Stack Developer.
