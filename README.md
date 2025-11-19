@@ -1,17 +1,32 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/ksM0TJxt/Gemini-Generated-Image-m5so6mm5so6mm5so.png" alt="My Banner" width="900" height="900"/>
+  <img src="https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1" 
+       alt="Touhidur Zaman - Full Stack Developer Banner" 
+       width="100%" 
+       height="250"/>
 </p>
-About Me 👋
 
-Hi! I’m MD Mahmudul Hasan, a passionate MERN Stack Developer.
-💻 Tech Stack: React.js | Tailwind CSS | Firebase | Node.js | Express.js | MongoDB | Git & GitHub
-🚀 I love building responsive and dynamic web applications that provide seamless user experiences.
-🌱 Always learning new technologies and improving my skills.
-🤝 Open to collaborating on interesting projects and contributing to open-source.
 
+<h1 align="center">Hi 👋, I'm MD Mahmudul Hasan</h1>
+<h3 align="center">MERN Stack Developer | React.js | Tailwind CSS | Firebase | Node.js | MongoDB</h3>
+
+### About Me
+- 🌱 I’m currently learning advanced MERN stack development.
+- 💻 I love building web applications and creating smooth UI/UX.
+- ⚡ Fun fact: I enjoy solving coding challenges and exploring new technologies.
+- 
+
+  ### Current Activities
+- 💻 I’m working on a tourism website using React.js and Tailwind CSS.
+- 🌱 I’m exploring Next.js for building server-side rendered applications.
+- 🔧 Learning advanced MERN stack development.
+- ⚡ Solving coding challenges and experimenting with new technologies.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FZqUq4UF) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.mahmudul.hasan.694602) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_mahmudu1_hasan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahmudul-hasan-85ba92366) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MDMahmudul93870) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC8R6Q1m17VXoTluhz0ZfA7A) 
+
+### My Skills
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,tailwind,firebase,mongodb)
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
