@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="900" height="600" src="https://i.ibb.co.com/B2sTwWhf/Gemini-Generated-Image-m5so6mm5so6mm5s.jpg" alt="Banner"/>
+  <img width="800" height="500" src="https://i.ibb.co.com/B2sTwWhf/Gemini-Generated-Image-m5so6mm5so6mm5s.jpg" alt="Banner"/>
 </div>
 
 
