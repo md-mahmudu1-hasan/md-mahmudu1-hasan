@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="800" height="500" src="https://i.ibb.co.com/B2sTwWhf/Gemini-Generated-Image-m5so6mm5so6mm5s.jpg" alt="Banner"/>
+  <img width="800" height="500" src="https://i.ibb.co.com/Zz75KL2q/Gemini-Generated-Image-72vha072vha072vh.png" alt="Banner"/>
 </div>
 
 
 <h1 align="center">Hi 👋, I'm MD Mahmudul Hasan</h1>
-<h3 align="center">MERN Stack Developer | React.js | Tailwind CSS | Firebase | Node.js | MongoDB</h3>
+<h3 align="center">Full Stack Developer(MERN) | Next js | React.js | Tailwind CSS | Firebase | Node.js | MongoDB</h3>
 
 ### About Me
 - 🌱 I’m currently learning advanced MERN stack development.
