@@ -22,7 +22,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FZqUq4UF) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.mahmudul.hasan.694602) [![Instagram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahmudul-hasan-85ba92366) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MDMahmudul93870)
 
 ### My Skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,tailwind,firebase,mongodb)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,next,react,tailwind,nodejs,firebase,mongodb)
 
 
 # 💻 Tech Stack:
