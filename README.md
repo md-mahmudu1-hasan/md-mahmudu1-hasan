@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning advanced MERN stack development.
 - 💻 I love building web applications and creating smooth UI/UX.
 - ⚡ Fun fact: I enjoy solving coding challenges and exploring new technologies.
-- 
 
   ### Current Activities
 - 💻 I’m working on a commercial website using React.js and Tailwind CSS.
