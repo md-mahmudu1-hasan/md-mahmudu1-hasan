@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm MD Mahmudul Hasan</h1>
-<h3 align="center">Full Stack Developer(MERN) | Next js | React.js | Tailwind CSS | Firebase | Node.js | MongoDB</h3>
+<h3 align="center">Full Stack Developer(MERN) | Next js | React.js | Tailwind CSS | Firebase | Node.js | Express.js | MongoDB</h3>
 
 ### About Me
 - 🌱 I’m currently learning advanced MERN stack development.
