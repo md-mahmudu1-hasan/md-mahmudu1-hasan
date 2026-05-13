@@ -7,15 +7,15 @@
 <h3 align="center">Full Stack Developer(MERN) | Next js | React.js | Tailwind CSS | Firebase | Node.js | Express.js | MongoDB</h3>
 
 ### About Me
-- 🌱 I’m currently learning advanced MERN stack development.
-- 💻 I love building web applications and creating smooth UI/UX.
-- ⚡ Fun fact: I enjoy solving coding challenges and exploring new technologies.
+I am a Web Developer specializing in the MERN stack. On the frontend, I mainly work with Next.js (TypeScript), React.js, and Tailwind CSS, which are also my preferred technologies. On the backend, I am familiar with Express.js and MongoDB.
 
-  ### Current Activities
-- 💻 I’m working on a commercial website using React.js and Tailwind CSS.
-- 🌱 I’m exploring Next.js for building server-side rendered applications.
-- 🔧 Learning advanced Full stack development.
-- ⚡ Solving coding challenges and experimenting with new technologies.
+I completed my diploma in Computer Science and Technology from Rangpur Polytechnic Institute. I have been working in web development for the past 1.5 years and have also completed a 4-month internship, gaining hands-on experience in real-world projects.
+
+I have successfully completed Programming Hero’s AI-Driven Web Development course (Level 1 & Level 2). In addition to that, I have learned from senior developers and YouTube, which helped me strengthen my practical skills.
+
+I am also comfortable using AI tools, AI agents, and prompt engineering, and I continuously try to improve my knowledge. Learning is an ongoing process for me, and I am always eager to explore new technologies.
+
+In terms of libraries, I prefer using shadcn/ui, GSAP, and Framer Motion for building modern and interactive user interfaces.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FZqUq4UF) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.mahmudul.hasan.694602) [![Instagram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mahmudul-hasan-85ba92366) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MDMahmudul93870)
