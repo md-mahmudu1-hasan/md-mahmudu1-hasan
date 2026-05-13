@@ -37,11 +37,11 @@ In terms of libraries, I prefer using shadcn/ui, GSAP, and Framer Motion for bui
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=md-mahmudu1-hasan&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=md-mahmudu1-hasan&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-mahmudu1-hasan&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🔥 GitHub Streak
 
+![GitHub Streak](https://streak-stats.demolab.com?user=md-mahmudu1-hasan&theme=vue)
+
+---
 
 
 
